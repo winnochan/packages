@@ -1,0 +1,6 @@
+[submodule "clean-tool"]
+	path = clean-tool
+	url = https://github.com/shpz/CreatorClean.git
+[submodule "tidys-plugins"]
+	path = tidys-plugins
+	url = https://github.com/tidys/CocosCreatorPlugins.git
